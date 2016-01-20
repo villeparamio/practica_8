@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    background-size: 100%, 100px;
+    background-size: 100% 100px;
     background-repeat: no-repeat;
     color: #FFFFFF;
     font-family: 'Neuton', serif;
@@ -27,6 +27,7 @@ img{
     border: 2px white;
     border-spacing: 15px;
     border-style: groove;
+    padding: 10px;
 }
 
 h2 {

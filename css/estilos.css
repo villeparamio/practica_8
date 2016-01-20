@@ -43,8 +43,24 @@ a {
 }
 h3:hover {
     background-color: #222222;
-    font-size: 2em;
-}
+    }
 h3:hover+p{
     background-color: #222222;
+}
+h3 a:hover{
+    font-size: 3em;
+    text-transform: uppercase;
+}
+#pequeños{
+    font-size: 0.8em;
+}
+div {
+    width: 33%;
+    float: left;
+}
+#pfolk{
+    text-align: center;
+}
+#prock{
+    text-align: right;
 }
